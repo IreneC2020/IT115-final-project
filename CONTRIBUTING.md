@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome
 
-Welcome to contributing.md for the final assignment of IT115. 
+Welcome to contributing.md for the final assignment of IT115.
 
 ## Environment Details
 
@@ -18,13 +18,13 @@ Report bugs by to the bug report under project.
 
 Please respect the use and the license
 
-### At the top of the structure will be:
+### At the top of the structure will be
 * test.html
 * demostyle.css
 * demo.js
 
 ### Reminders
 
-* Be sure to keep your contributions in branch 
+* Be sure to keep your contributions in branch
 * Also be sure to use simple text html language!
 * Any stray files or directories left at the top level will be deleted.
