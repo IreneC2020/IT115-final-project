@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ying final project
 
 You can use the [editor on GitHub](https://github.com/IreneC2020/IT115-final-project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
